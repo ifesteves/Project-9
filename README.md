@@ -31,7 +31,3 @@ Os dados utilizados neste projeto estão disponíveis no arquivo CSV:
 - Analisar a proporção de usuários que realizaram o evento mais popular em cada grupo e verificar a diferença entre eles.
 - Comparar os resultados do grupo com fontes alteradas com os grupos de controle individualmente e em conjunto.
 
-## Nível de Significância
-O nível de significância estatística padrão de 0,05 será utilizado para testar as hipóteses estatísticas. Será calculado o número de testes de hipóteses realizados e, se necessário, será ajustado o nível de significância para reduzir o risco de resultados falsos.
-
-Ao concluir este projeto, serão demonstradas habilidades em análise de dados, estatística e interpretação de resultados experimentais.
